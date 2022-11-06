@@ -1,2 +1,11 @@
-aiogram<3.0
-environs~=8.0.0
+asyncpg
+aiogram==2.7
+aiohttp
+environs
+pillow
+Django
+psycopg2-binary
+psycopg2
+django-adminlte-3
+python-dateutil
+aioschedule
